@@ -1,6 +1,6 @@
 # Standalone Download Service
 
-This is a simple service that just downloads files and saves them to the location specified. It is supposed to be used by another software in a fire-and-forget style. SDS opens a unix socket and runs download-save process for requests recieved through thie socket.
+This is a simple service that just downloads files and saves them to the location specified. It is supposed to be used by another software in a fire-and-forget style. SDS opens a unix socket and runs download-save process for requests recieved through this socket.
 
 ## Installation
 
